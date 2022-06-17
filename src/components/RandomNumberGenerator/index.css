@@ -42,6 +42,8 @@
   border-radius: 7px;
   width: 100px;
   height: 40px;
+  cursor: pointer;
+  outline: none;
 }
 .number {
   font-family: 'Roboto';
